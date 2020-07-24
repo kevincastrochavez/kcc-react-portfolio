@@ -4,16 +4,16 @@ import contactPagePicture from "../../../static/assets/images/auth/login.jpg";
 
 export default function() {
   return (
-    <div className="content-page-wrapper">
+    <div className="content-page-wrapper contact-page-container">
       <div
-        className="left-column"
+        className="left-column image-desktop-setup"
         style={{
           background: "url(" + contactPagePicture + ") no-repeat",
           backgroundSize: "cover",
           backgroundPosition: "center"
         }}
       />
-      <div className="right-column">
+      <div className="right-column personal-information-container">
         <div className="contact-bullet-points">
           <div className="bullet-point-group">
             <div className="icon">

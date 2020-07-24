@@ -20,16 +20,7 @@ export default function() {
         risus varius blandit sit amet non magna. Morbi leo risus, porta ac
         consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida
         at eget metus. Donec sed odio dui. Cras mattis consectetur purus sit
-        amet fermentum. Etiam porta sem malesuada magna mollis euismod. Nulla
-        vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque
-        ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non
-        commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec
-        elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur
-        et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-        commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis
-        risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac
-        consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis
-        euismod semper.
+        amet fermentum.
       </div>
     </div>
   );
